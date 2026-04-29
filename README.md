@@ -54,7 +54,7 @@ I approach training as a **systems problem**, where every architectural decision
 |---|---|
 | **Languages** | Python · C++ |
 | **Systems** | Concurrency · Memory Management · Distributed Systems · Linux |
-| **ML Systems** | Optimization · Autograd · Distributed Training |
+| **ML Systems** | Autograd · Optimization Algorithms · Distributed Training |
 
 ---
 
@@ -68,5 +68,18 @@ Focused on building scalable, systems-aware ML infrastructure with strong guaran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omprakashsahani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Omprakash.Sahani7991@gmail.com)
+<a href="https://github.com/OmprakashSahani">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmprakashSahani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmprakashSahani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmprakashSahani&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF" />
+</div> 
+
+---

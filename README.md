@@ -9,13 +9,13 @@
 
 ## About Me
 
-I design and build machine learning systems from first principles — including autograd engines, custom optimizers, and distributed training infrastructure — with a focus on how system constraints shape real-world performance.
+I design and build machine learning systems and supporting infrastructure from first principles — including autograd engines, custom optimizers, and distributed training pipelines — with a focus on how memory, communication, and compute constraints shape real-world performance.
 
 - Building distributed training systems (data-parallel, all-reduce)
 - Implementing autograd engines and optimization algorithms
-- Exploring performance trade-offs under memory and communication constraints
+- Analyzing performance trade-offs under memory and communication constraints
 
-I approach training as a **systems problem**, where every architectural decision impacts efficiency, scalability, and measurable outcomes.
+I treat training as a systems problem, where architectural decisions directly impact efficiency, scalability, and measurable outcomes (throughput, latency, memory).
 
 ---
 
@@ -23,19 +23,40 @@ I approach training as a **systems problem**, where every architectural decision
 
 | Repository | Description |
 |---|---|
-| `distml-core` | Data-parallel training prototype with all-reduce; explores communication vs computation trade-offs |
-| `autograd-engine` | Custom tensor library with reverse-mode autodiff and memory-aware execution |
-| `ml-benchmark-suite` | Config-driven benchmarking system for reproducible performance evaluation across workloads |
-| `scalable-attention` | Experiments on memory-efficient attention with analysis of scaling vs memory usage |
+| [distml-core](https://github.com/OmprakashSahani/distml-core) | Data-parallel training prototype with all-reduce; explores communication vs computation trade-offs |
+| [autograd-engine](https://github.com/OmprakashSahani/autograd-engine) | Custom tensor library with reverse-mode autodiff and memory-aware execution |
+| [ml-benchmark-suite](https://github.com/OmprakashSahani/ml-benchmark-suite) | Config-driven benchmarking system for reproducible performance evaluation across workloads |
+| [scalable-attention](https://github.com/OmprakashSahani/scalable-attention) | Experiments on memory-efficient attention with analysis of scaling vs memory usage |
+
+---
+
+## ⚙️ Engineering Systems & Tooling
+
+| Repository | Description |
+|----------|------------|
+| [ML-Experiment-Tracker](https://github.com/OmprakashSahani/ML-Experiment-Tracker) | CLI-based experiment tracking system with JSON storage, reproducibility, and comparison workflows |
+| [GitHub-Learning-Lab](https://github.com/OmprakashSahani/GitHub-Learning-Lab) | Demonstrates production GitHub workflows, CI/CD, testing, and packaging |
+
+---
+
+## ⭐ Highlight Project: ML Experiment Tracker
+
+A complete CLI-based system for experiment tracking, reproducibility, and comparison.
+
+- Installable CLI package (`mltracker`)
+- Robust JSON handling with validation (NaN/Inf, malformed files)
+- End-to-end workflow: create-run → log-metric → list-runs → compare-runs
+- GitHub Actions CI + tests
+- Designed with real system constraints in mind (memory, I/O, failure modes)
 
 ---
 
 ## Current Work
 
-- Designing distributed training primitives and synchronization strategies
-- Building from-scratch optimization and autograd systems
-- Developing benchmarking pipelines for throughput, latency, and memory analysis
-- Running controlled experiments to study scalability and system-level trade-offs
+- Designing distributed training primitives and synchronization strategies (e.g., all-reduce, data-parallel)
+- Implementing from-scratch autograd engines and optimization algorithms
+- Building benchmarking pipelines to measure throughput, latency, and memory usage
+- Designing and running controlled experiments to quantify scalability and system-level trade-offs
 
 ---
 
@@ -54,13 +75,21 @@ I approach training as a **systems problem**, where every architectural decision
 |---|---|
 | **Languages** | Python · C++ |
 | **Systems** | Concurrency · Memory Management · Distributed Systems · Linux |
-| **ML Systems** | Autograd · Optimization Algorithms · Distributed Training |
+| **ML Systems** | Autograd · Optimization · Distributed Training |
 
 ---
 
 ## Direction
 
 Focused on building scalable, systems-aware ML infrastructure with strong guarantees on performance, reproducibility, and efficiency.
+
+---
+
+## 🎯 What I'm Looking For
+
+- ML Systems / Infrastructure Engineering roles  
+- Work involving distributed training, performance optimization, and large-scale ML systems  
+- Opportunities to build and optimize end-to-end ML pipelines
 
 ---
 

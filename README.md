@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## About
 
 I build machine learning infrastructure from first principles, focusing on distributed training systems, transformer inference, observability, and performance engineering.

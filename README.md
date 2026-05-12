@@ -104,13 +104,15 @@ Focused on building scalable, systems-aware ML infrastructure with strong guaran
 </a>
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmprakashSahani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats-dusky-one-34.vercel.app/api/top-langs/?username=OmprakashSahani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmprakashSahani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats-dusky-one-34.vercel.app/api?username=OmprakashSahani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=OmprakashSahani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmprakashSahani&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmprakashSahani&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=12&title_color=58A6FF&custom_title=Contribution%20Graph" />
 </div> 
 
 ---

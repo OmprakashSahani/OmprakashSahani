@@ -1,7 +1,7 @@
 <div align="center">
 
 # Omprakash Sahani
-### ML Systems Engineer · Distributed Training & Optimization
+### ML Systems Engineer · Distributed Infrastructure · Performance Engineering
 
 </div>
 
@@ -12,95 +12,62 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ml-systems-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omprakashsahani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Omprakash.Sahani7991@gmail.com)
-<a href="https://github.com/OmprakashSahani">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmprakashSahani)
 
 </div>
 
-## About Me
+---
 
-I design and build machine learning systems and supporting infrastructure from first principles — including autograd engines, custom optimizers, and distributed training pipelines — with a focus on how memory, communication, and compute constraints shape real-world performance.
+## About
 
-- Building distributed training systems (data-parallel, all-reduce)
-- Implementing autograd engines and optimization algorithms
-- Analyzing performance trade-offs under memory and communication constraints
+I build machine learning infrastructure from first principles, focusing on distributed training systems, transformer inference, observability, and performance engineering.
 
-I treat training as a systems problem, where architectural decisions directly impact efficiency, scalability, and measurable outcomes (throughput, latency, memory).
+My work explores how communication overhead, memory scaling, synchronization cost, and inference latency shape real-world ML system behavior.
 
 ---
 
-## Active Projects
+## Core Infrastructure Projects
 
-| Repository | Description |
+| Project | Focus |
 |---|---|
-| [distml-core](https://github.com/OmprakashSahani/distml-core) | Data-parallel training prototype with all-reduce; explores communication vs computation trade-offs |
-| [autograd-engine](https://github.com/OmprakashSahani/autograd-engine) | Custom tensor library with reverse-mode autodiff and memory-aware execution |
-| [ml-benchmark-suite](https://github.com/OmprakashSahani/ml-benchmark-suite) | Config-driven benchmarking system for reproducible performance evaluation across workloads |
-| [scalable-attention](https://github.com/OmprakashSahani/scalable-attention) | Experiments on memory-efficient attention with analysis of scaling vs memory usage |
+| [Atlas AI](https://github.com/OmprakashSahani/atlas-ai) | Distributed AI infrastructure platform for transformer systems, inference optimization, observability, and performance engineering |
+| [Distributed Training Profiler](https://github.com/OmprakashSahani/dist-training-profiler) | Systems profiler for communication overhead, scaling efficiency, memory bottlenecks, and ZeRO optimization analysis |
+| [Benchmark Guardian](https://github.com/OmprakashSahani/benchmark-guardian) | Automated benchmark regression detection platform with GitHub App integration and performance intelligence workflows |
+| [Distributed Training Simulator](https://github.com/OmprakashSahani/distml-core) | Data-parallel scaling simulation with all-reduce communication analysis |
+| [Autograd Engine](https://github.com/OmprakashSahani/autograd-engine) | Reverse-mode autodiff engine with dynamic computation graphs and scaling analysis |
+| [ML Reproducibility Auditor](https://github.com/OmprakashSahani/ml-repro-audit) | Systems-oriented auditor for reproducibility, engineering quality, and ML infrastructure signals |
 
 ---
 
-## ⚙️ Engineering Systems & Tooling
+## Engineering Philosophy
 
-| Repository | Description |
-|----------|------------|
-| [ML-Experiment-Tracker](https://github.com/OmprakashSahani/ML-Experiment-Tracker) | CLI-based experiment tracking system with JSON storage, reproducibility, and comparison workflows |
-| [GitHub-Learning-Lab](https://github.com/OmprakashSahani/GitHub-Learning-Lab) | Demonstrates production GitHub workflows, CI/CD, testing, and packaging |
-
----
-
-## ⭐ Highlight Project: ML Experiment Tracker
-
-A complete CLI-based system for experiment tracking, reproducibility, and comparison.
-
-- Installable CLI package (`mltracker`)
-- Robust JSON handling with validation (NaN/Inf, malformed files)
-- End-to-end workflow: create-run → log-metric → list-runs → compare-runs
-- GitHub Actions CI + tests
-- Designed with real system constraints in mind (memory, I/O, failure modes)
+- ***Measure before optimizing***
+- ***Treat memory as a first-class constraint***
+- ***Make trade-offs explicit***
+- ***Design reproducible and observable systems***
 
 ---
 
-## Current Work
+## Current Focus
 
-- Designing distributed training primitives and synchronization strategies (e.g., all-reduce, data-parallel)
-- Implementing from-scratch autograd engines and optimization algorithms
-- Building benchmarking pipelines to measure throughput, latency, and memory usage
-- Designing and running controlled experiments to quantify scalability and system-level trade-offs
-
----
-
-## Engineering Principles
-
-- *Measure before optimizing.*
-- *Treat memory as a first-class constraint.*
-- *Make trade-offs explicit.*
-- *Design reproducible and falsifiable experiments.*
+- Transformer inference systems
+- Distributed runtime behavior
+- Communication and synchronization overhead
+- Memory-aware ML infrastructure
+- Benchmark automation and regression analysis
+- Observability for ML systems
 
 ---
 
 ## Technical Focus
 
-| Area | Details |
+| Area | Technologies |
 |---|---|
 | **Languages** | Python · C++ |
-| **Systems** | Concurrency · Memory Management · Distributed Systems · Linux |
-| **ML Systems** | Autograd · Optimization · Distributed Training |
-
----
-
-## Direction
-
-Focused on building scalable, systems-aware ML infrastructure with strong guarantees on performance, reproducibility, and efficiency.
-
----
-
-## 🎯 What I'm Looking For
-
-- ML Systems / Infrastructure Engineering roles  
-- Work involving distributed training, performance optimization, and large-scale ML systems  
-- Opportunities to build and optimize end-to-end ML pipelines
+| **Infrastructure** | FastAPI · GitHub Apps · SQLite · CI/CD |
+| **ML Systems** | Distributed Training · Autograd · Transformers |
+| **Performance** | Profiling · Benchmarking · Memory Analysis |
+| **Systems** | Multiprocessing · Synchronization · Communication |
 
 ---
 
@@ -119,6 +86,6 @@ Focused on building scalable, systems-aware ML infrastructure with strong guaran
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmprakashSahani&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=12&title_color=58A6FF&custom_title=Contribution%20Graph" />
 
-</div> 
+</div>
 
 ---
